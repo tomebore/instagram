@@ -103,6 +103,5 @@ __pycache__/
 .env
 db.sqlite3
 media
-static/css
-static/images
+static/*
 settings.py
